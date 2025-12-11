@@ -1,0 +1,15 @@
+import React from "react";
+
+export default function App() {
+  return (
+    <div style={{padding: 20}}>
+      <h1>Muhammad Ahmad - Data Analyst Portfolio</h1>
+
+      <p>Email: <a href="mailto:ahmadkhawaja7890@gmail.com">ahmadkhawaja7890@gmail.com</a></p>
+      <p>LinkedIn: <a href="https://www.linkedin.com/in/muhammadahmad78">linkedin.com/in/muhammadahmad78</a></p>
+      <p>Phone: +971567326206</p>
+
+      <p>This is your React portfolio starter. Once it deploys, I can design the full UI for you.</p>
+    </div>
+  );
+}
